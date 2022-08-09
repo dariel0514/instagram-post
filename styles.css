@@ -1,0 +1,31 @@
+.photo {
+    display: flex;
+    width: 45%;
+    margin-left: 25%;
+}
+
+.fa-share-nodes {
+    margin-left: 43%;
+    max-height: 80px;
+    width: auto;
+}
+
+.fa-html5 {
+    margin-left: 25%;
+}
+
+div {
+    margin-left: 25%;
+}
+
+.fa-heart {
+    margin-left: 25%;
+}
+
+.fa-bookmark {
+    margin-left: 39%;
+}
+
+p {
+    margin-left: 25%;
+}
