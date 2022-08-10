@@ -1,31 +1,23 @@
-.photo {
-    display: flex;
-    width: 45%;
-    margin-left: 25%;
+body {
+    background: black;
 }
-
-.fa-share-nodes {
-    margin-left: 43%;
-    max-height: 80px;
-    width: auto;
+div.container{
+    background: white;
 }
-
-.fa-html5 {
-    margin-left: 25%;
+div.post{
+    background: white;
 }
-
-div {
-    margin-left: 25%;
+div.post img{
+    width: 100%;
+    height: 100%;
 }
-
-.fa-heart {
-    margin-left: 25%;
+div.container{
+    width: 600px;
+    margin: auto;
 }
-
-.fa-bookmark {
-    margin-left: 39%;
+#save{
+    margin-left: 97%;
 }
-
-p {
-    margin-left: 25%;
+.bookmark{
+    margin-left: 97%;
 }
