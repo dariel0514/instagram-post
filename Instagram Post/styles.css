@@ -1,23 +1,30 @@
 body {
     background: black;
 }
-div.container{
+
+.container{
     background: white;
+    width: 600px;
+    margin: auto;
+    padding: 0 2%;
 }
-div.post{
-    background: white;
-}
-div.post img{
+
+.post img{
     width: 100%;
     height: 100%;
 }
-div.container{
-    width: 600px;
-    margin: auto;
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-#save{
-    margin-left: 97%;
+
+h2{
+    font-size:2rem
 }
-.bookmark{
-    margin-left: 97%;
+
+.footer{
+    display: flex;
+    justify-content: space-between;
 }
